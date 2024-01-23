@@ -1,147 +1,147 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 🖐️ used
+  - Nonblocking I/O and blocking code 🖐️ used
+  - Event loop phases 🖐️ used
+  - Event loop microtasks and macrotasks 🖐️ used
+  - Garbage collection 
+  - Node.js LTS schedule 🖐️ used
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
-  - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies
-  - npm, node_modules
-  - package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - Module `node:module` 🖐️ used
+  - Caching in CJS and ESM 🖐️ used
+  - Modules as singletons 🖐️ used
+  - Contexts and scripts module `node:vm` 🖐️ used
+  - Dependencies 🖐️ used
+  - npm, node_modules 🖐️ used
+  - package.json and package lock 🖐️ used
+  - Module-based permissions model🖐️ used
+  - Isolation with modularity 🎓 known
+  - Dependency injection 🎓 known
+  - DI containers 🎓 known
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Command line arguments 🖐️ used
+  - Node.js CLI 🖐️ used 
+  - Process-based permissions 🎓 known
+  - Graceful shutdown 🎓 known
+  - Clustering 🎓 known
   - Watch filesystem changes with --watch
-- Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async)
+- Internal API 🎓 known
+  - Streams API 🖐️ used
+  - Web Streams API 🖐️ used
+  - Crypto API 🖐️ used
+  - Password hashing with crypto.scrypt 🖐️ used
+  - Web Crypto API 👂 heard
+  - File system API (sync and async) 🖐️ used
   - Copy folder recursively
-  - Worker threads
-  - Performance hooks
+  - Worker threads 🎓 known
+  - Performance hooks 🎓 known
   - Native fetch and nodejs/undici
-  - async_hooks
+  - async_hooks 
   - AsyncLocalStorage
-  - AsyncResource
-  - Deprecated domain API
+  - AsyncResource 🖐️ used
+  - Deprecated domain API 🎓 known
   - Node.js single executable
   - Stream back pressure
-  - SharedArrayBuffer
-  - worker_threads
+  - SharedArrayBuffer 🖐️ used
+  - worker_threads 🖐️ used
   - child_process
-  - MessageChannel, MessagePort
+  - MessageChannel, MessagePort 🖐️ used
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs new URL
+  - Module `node:url` vs new URL 🖐️ used
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
+  - IP sticky sessions 🖐️ used
+  - Endpoint throttling 🖐️ used
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
+  - UDP 🖐️ used
+  - TLS 🎓 known
+  - Websocket 👂 heard
+  - SSE 🎓 known
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - REST 🖐️ used 
+  - RPC 🎓 known
+  - Routing 🖐️ used
+  - DoS 👂 heard
+  - DDoS 🎓 known
+  - XSS 🎓 known
   - Path traversal
-  - CSRF
+  - CSRF 🎓 known
   - DNS
-  - Fetch API
+  - Fetch API 🎓 known
   - IncomingMessage
-  - SQL injection
-  - noDelay
-  - keep-alive
-  - ALPN
+  - SQL injection 🎓 known
+  - noDelay 🎓 known
+  - keep-alive 🎓 known
+  - ALPN 
   - SNI callback
   - SSL certificates
-  - Protocol agnostic approach
+  - Protocol agnostic approach 🎓 known
 - Technique and tools
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Testing 🖐️ used
+  - CI/CD 🖐️ used
+  - Readable 🖐️ used 
+  - Writable 🖐️ used
+  - Transform 🎓 known
   - back pressure
-  - Buffer
-  - Console
+  - Buffer 🖐️ used
+  - Console 🖐️ used
   - Inspector
-  - Reliability
+  - Reliability 🖐️ used
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
+  - Data access layer 🖐️ used
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 🖐️ used 
+  - error.code 🖐️ used 
+  - error.message 🖐️ used 
+  - error.stack  🖐️ used 
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Heap dump 🎓 known
+  - Debugging tools 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks 🎓 known
+  - Resource leaks 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons 🖐️ used
   - C and C++ addons
-  - Rust addons
-  - Zig addons
+  - Rust addons 👂 heard
+  - Zig addons 👂 heard
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API) 👂 heard
   - NAPI C and C++
-  - NAPI Rust
+  - NAPI Rust 👂 heard
   - NAPI Zig
-  - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly WAT 👂 heard
+  - Webassembly C and C++ 👂 heard
   - Webassembly Rust
   - Webassembly Zig
-  - Webassembly AssemblyScript
-  - Shared memory
-  - V8 binary serialization
+  - Webassembly AssemblyScript 👂 heard
+  - Shared memory 👂 heard
+  - V8 binary serialization 👂 heard
