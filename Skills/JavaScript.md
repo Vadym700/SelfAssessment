@@ -26,8 +26,8 @@
   - getters and setters
   - __proto__ 👂 heard
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators👂 heard
+  - logical operators👂 heard
   - bitwise operators
   - ternary operator 👂 heard
   - void 👂 heard
@@ -39,8 +39,8 @@
   - in  👂 heard
   - super
   - Symbol
-  - Reflect
-- Statements
+  - Reflect👂 heard
+- Statements👂 heard
   - if 🎓 known
   - while 🎓 known
   - do..while 🎓 known
@@ -62,9 +62,9 @@
 - Functions
   - function declaration
   - function expression
-  - return
-  - default parameters
-  - functional object
+  - return👂 heard
+  - default parameters👂 heard
+  - functional object👂 heard
 - Data structures
   - Array  🎓 known
   - mixin 🎓 known 
