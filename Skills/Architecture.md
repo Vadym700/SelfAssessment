@@ -45,7 +45,7 @@
   - A software requirements specification (SRS): 👂 heard
   - Solution visions: 
   - Solution capabilities: 🎓 known
-  - System design: 
+  - System design: 👂 heard
   - Process modeling: 🎓 known
   - Data modeling: 
   - Solution components: 
