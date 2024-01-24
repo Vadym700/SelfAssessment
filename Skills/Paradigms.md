@@ -4,63 +4,63 @@
   - Procedural programming 👂 heard 
   - Imperative programming 🎓 known
   - Structured programming 👂 heard
-  - Non-structured programming
+  - Non-structured programming🖐️ used
   - Functional programming  🎓 known
-  - Prototype-based programming
+  - Prototype-based programming🖐️ used
   - Object-oriented programming  🎓 known
   - Object-based programming  🎓 known
-  - Generic programming
+  - Generic programming🖐️ used
   - Concurrent computing 🎓 known
   - Asyncronous programming
   - Parallel programming 🎓 known
   - Reactive programming  🎓 known
-  - FRP (Functional-reactive)
-  - Automata-based programming
+  - FRP (Functional-reactive)🖐️ used
+  - Automata-based programming🖐️ used
   - Domain-specific languages 👂 heard
-  - Multi-paradigm programming
+  - Multi-paradigm programming🖐️ used
   - Metaprogramming 👂 heard
-  - Actor model
-- OOP basics
-  - constructor
-  - new
-  - Static method
+  - Actor model🖐️ used
+- OOP basics 🎓 known
+  - constructor 🎓 known
+  - new 🎓 known
+  - Static method 🎓 known
   - Method 🎓 known
   - Async method 🎓 known
   - Getters, Setters
-  - Public fields
+  - Public fields 🎓 known
   - Private fields 👂 heard
-  - Field declarations
-  - Inheritance
+  - Field declarations👂 heard
+  - Inheritance👂 heard
   - Parent class 🎓 known
   - Polymorphism 🎓 known
   - Abstract class 🎓 known
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Interface🎓 known
+  - Encapsulation👂 heard
+  - Hidden class🎓 known
   - Object form  👂 heard
   - instance  🎓 know
-  - Introspection
-  - Reflection
-- Patterns
+  - Introspection🎓 known
+  - Reflection🎓 known
+- Patterns🎓 known
   - Singleton  👂 heard
   - Factory Method  👂 heard
   - Abstract Factory  👂 heard
-  - Adapter
-  - Observer
+  - Adapter🎓 known
+  - Observer🎓 known
   - Strategy  👂 heard
-  - Facade
-  - Proxy
+  - Facade🎓 known
+  - Proxy👂 heard
   - Chain of Responsibility 🎓 known
-  - Command
+  - Command👂 heard
   - Iterator 🎓 known
-  - State
+  - State👂 heard
   - Bridge 🎓 known
   - Builder  👂 heard
   - Prototype 👂 heard
   - Composite 👂 heard
-  - Decorator
+  - Decorator🎓 known
   - Flyweight 🎓 known
-  - Mediator
-  - Memento
-  - Template Method 
-  - Visitor
+  - Mediator🎓 known
+  - Memento🎓 known
+  - Template Method 🎓 known
+  - Visitor🎓 known
