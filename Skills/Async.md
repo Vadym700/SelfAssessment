@@ -3,90 +3,90 @@
 - Theory
   - Event loop 🎓 known
   - try..catch 🎓 known
-  - Non-blocking
+  - Non-blocking👂 heard
   - Async I/O 🎓 known
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks 
-  - Live locks
+  - Thread pool🎓 known
+  - Pattern Reactor👂 heard
+  - CAS operations👂 heard
+  - epoll👂 heard
+  - kqueue🎓 known
+  - Completion ports🎓 known
+  - Event ports🎓 known
+  - libuv🎓 known
+  - Race conditions🖐️ used
+  - Dead locks 🖐️ used
+  - Live locks🖐️ used
   - Concurrent programming 👂 heard
   - Parallel programming 👂 heard 
-  - Actor Model
+  - Actor Model🖐️ used
   - Thread 👂 heard
-  - Process
-- Async contracts
+  - Process🎓 known
+- Async contracts🎓 known
   - Callbacks 👂 heard
-  - Callback-last-error-first 
-  - Thenable
+  - Callback-last-error-first 🎓 known
+  - Thenable🎓 known
   - Promise 👂 heard
   - Async/await 👂 heard
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Future🎓 known
+  - Deferred🎓 known
+  - Sync generator🎓 known
+  - Async Generator🎓 known
+  - Async Iterator👂 heard
   - Event 🎓 known 
-  - Coroutine
-  - Goroutine
-  - Signal
+  - Coroutine👂 heard
+  - Goroutine👂 heard
+  - Signal👂 heard
   - Stream 🎓 known
   - Chain of responsibility 👂 heard
   - Middleware 👂 heard
-  - Locks
-- Async adapters and utils
+  - Locks🖐️ used
+- Async adapters and utils🖐️ used
   - callbackify 👂 heard
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
-- Async abstractions interfaces
-  - EventEmitter
+  - promisify🖐️ used
+  - asyncify🖐️ used
+  - callbacks compose🎓 known
+  - async compose🎓 known
+- Async abstractions interfaces🎓 known
+  - EventEmitter🎓 known
   - Observable/Observer
   - Readable 🎓 known
   - Writable 🎓 known
-  - Transform 
-  - Async Pool
-  - Async Queue
+  - Transform 🖐️ used
+  - Async Pool🖐️ used
+  - Async Queue🖐️ used
   - Async Collector 👂 heard
-  - Semaphore
-  - Mutex 
-  - Spin Lock
-- JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Semaphore👂 heard
+  - Mutex 👂 heard
+  - Spin Lock👂 heard
+- JavaScript & Node.js specific🎓 known
+  - Timers👂 heard
+  - setImmediate🎓 known
+  - nextTick🎓 known
+  - AbortController👂 heard
+  - AbortSignal🎓 known
+  - Promise unhandled rejection🎓 known
+  - Promise double resolve👂 heard
   - child_process 👂 heard
-  - worker_threads
-  - Atomics
-  - High resolution clock
+  - worker_threads🎓 known
+  - Atomics🎓 known
+  - High resolution clock🎓 known
   - Callback hell 👂 heard
   - Promise hell 👂 heard
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
-- Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
+  - ref() and unref()🎓 known
+  - Error handling in async code🎓 known
+  - Better stack traces with return await🎓 known
+  - JSON streaming serialization👂 heard
+  - AsyncLocalStorage👂 heard
+  - AsyncResource👂 heard
+- Techniques🎓 known
+  - async.js library🎓 known
+  - RxJS library🎓 known
+  - Async composition🎓 known
   - Promise.all 👂 heard
   - Promise.allSettled 👂 heard
   - Promise.race 👂 heard
-  - Promise.any
+  - Promise.any🎓 known
   - Web Locks API 👂 heard
-  - IPC
+  - IPC🎓 known
   - Channel API 👂 heard
-  - Revealing Constructor
+  - Revealing Constructor🎓 known
