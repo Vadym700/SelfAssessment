@@ -1,31 +1,31 @@
 ## JavaScript
 
-- Language
-  - Object
+- Language🎓 known
+  - Object🎓 known
   - this 👂 heard
   - arrow function 👂 heard
   - async function 👂 heard
   - call  👂 heard
   - bind  👂 heard
-  - apply
+  - apply🎓 known
   - instanceof  👂 heard
-  - ...spread
-  - ...rest
+  - ...spread🎓 known
+  - ...rest🎓 known
   - typeof 👂 heard
   - destructuring 👂 heard
   - generator 👂 heard
   - iterator 👂 heard
   - async generator 👂 heard
   - async iterator 👂 heard 
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
+  - chaining🎓 known
+  - optional chaining🎓 known
+  - IIFE🎓 known
+  - global🎓 known
+  - globalThis🖐️ used
   - window 👂 heard
   - getters and setters
   - __proto__ 👂 heard
-  - prototype
+  - prototype🖐️ used
   - equality operators👂 heard
   - logical operators👂 heard
   - bitwise operators
@@ -34,11 +34,11 @@
   - yield 👂 heard
   - await 👂 heard
   - template literal 👂 heard
-  - strict mode
+  - strict mode🎓 known
   - delete  👂 heard
   - in  👂 heard
-  - super
-  - Symbol
+  - super🎓 known
+  - Symbol🎓 known
   - Reflect👂 heard
 - Statements👂 heard
   - if 🎓 known
@@ -59,31 +59,31 @@
   - class 🎓 known 
   - new Error  🎓 known
   - with 🎓 known
-- Functions
-  - function declaration
-  - function expression
+- Functions🖐️ used
+  - function declaration🖐️ used
+  - function expression🖐️ used
   - return👂 heard
   - default parameters👂 heard
   - functional object👂 heard
-- Data structures
+- Data structures🎓 known
   - Array  🎓 known
   - mixin 🎓 known 
-  - extend
-  - typed arrays
+  - extend🎓 known
+  - typed arrays🎓 known
   - Map  🎓 known
   - Set  🎓 known
   - undefined  🎓 known
   - null  🎓 known
   - Proxy  👂 heard
-  - weak collections
-  - timers
-  - EventEmitter
+  - weak collections🎓 known
+  - timers🎓 known
+  - EventEmitter🎓 known
   - RegExp  🎓 known
   - Date 👂 heard
   - BigInt 👂 heard
-- Infrastructure
+- Infrastructure🎓 known
   - V8 👂 heard
   - Node.js 👂 heard
   - npm 👂 heard 
   - prettier 👂 heard
-  - MDN
+  - MDN🎓 known
