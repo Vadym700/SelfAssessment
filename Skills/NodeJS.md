@@ -43,7 +43,7 @@
   - Copy folder recursively
   - Worker threads 🎓 known
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici👂 heard
   - async_hooks 
   - AsyncLocalStorage
   - AsyncResource 👂 heard
@@ -57,8 +57,8 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs new URL 👂 heard
-  - Module `node:assert`
-  - Internationalization
+  - Module `node:assert`👂 heard
+  - Internationalization👂 heard
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
@@ -74,24 +74,24 @@
   - Long polling
   - REST 👂 heard 
   - RPC
-  - Routing
+  - Routing👂 heard
   - DoS 👂 heard
   - DDoS 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API👂 heard
   - IncomingMessage
   - SQL injection
-  - noDelay
+  - noDelay👂 heard
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates👂 heard
   - Protocol agnostic approach
-- Technique and tools
-  - Native test runner
+- Technique and tools👂 heard
+  - Native test runner👂 heard
   - Logging
   - Application configuring
   - Testing 👂 heard
@@ -106,7 +106,7 @@
   - Reliability 👂 heard
   - Quality
   - Availability
-  - Flexibility
+  - Flexibility👂 heard
 - Data access
   - Data access layer 👂 heard
   - Repository
@@ -120,7 +120,7 @@
   - error.message
   - error.stack 
   - How to avoid mixins
-  - Error.captureStackTrace
+  - Error.captureStackTrace👂 heard
   - Uncaught exceptions
   - Heap dump 🎓 known
   - Debugging tools 🎓 known
@@ -134,14 +134,14 @@
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API)👂 heard
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig
-  - Webassembly WAT
+  - Webassembly WAT👂 heard
   - Webassembly C and C++
-  - Webassembly Rust
-  - Webassembly Zig
+  - Webassembly Rust👂 heard
+  - Webassembly Zig👂 heard
   - Webassembly AssemblyScript
-  - Shared memory
+  - Shared memory👂 heard
   - V8 binary serialization
