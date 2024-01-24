@@ -12,9 +12,9 @@
   - Programming paradigm: 🖐️ used
   - Programming language: 🖐️ used
   - Software engineering: 🖐️ used
-  - Decomposition: 
-  - Control flow: 
-  - Data flow: 
+  - Decomposition: 🎓 known
+  - Control flow: 🎓 known
+  - Data flow: 🎓 known
 - Syntax and concepts
   - value: 👂 heard
   - identifier: 🎓 known
@@ -44,31 +44,31 @@
   - contract: 🖐️ used
   - module: 👂 heard
   - call stack: 👂 heard
-- Functions
+- Functions🎓 known
   - signature:🖐️ used
   - argument: 🖐️ used
-  - parameter:
-  - pure function: 
+  - parameter:🎓 known
+  - pure function: 🎓 known
   - lambda expression: 🖐️ used
-  - side effects: 
+  - side effects: 🎓 known
   - closure:🖐️ used
   - partial application: 🎓 known
-  - curry: 
+  - curry: 🎓 known
   - higher order: 🎓 known
   - recursion: 🖐️ used
-  - callback: 
+  - callback: 🎓 known
   - listener: 👂 heard
-  - compose: 
-  - memoize: 
+  - compose: 🎓 known
+  - memoize: 🎓 known
   - wrapper: 👂 heard
   - functor: 👂 heard
   - monad: 👂 heard
   - monoid: 🖐️ used
   - generator: 👂 heard
   - coroutine: 🎓 known
-- Data structures
+- Data structures🎓 known
   - array: 👂 heard
-  - structure:
+  - structure:🎓 known
   - record: 🎓 known
   - enum: 👂 heard
   - instance: 👂 heard
@@ -79,10 +79,10 @@
   - linked list: 🖐️ used
   - doubly list: 👂 heard
   - unrolled list: 👂 heard
-  - circular list: 
+  - circular list: 🎓 known
   - queue: 👂 heard
   - stack: 🖐️ used
-  - deque:
+  - deque:🎓 known
   - tree: 👂 heard
   - graph: 🎓 known
   - iterator: 👂 heard
@@ -90,30 +90,30 @@
   - immutable state: 👂 heard
   - serialization: 🖐️ used
   - string parsing: 👂 heard
-- Process & style
+- Process & style🎓 known
   - compiler: 👂 heard
   - transpiler: 👂 heard
-  - linter: 
-  - polyfill: 
+  - linter: 🎓 known
+  - polyfill: 🎓 known
   - debugger: 🖐️ used
   - garbage collection: 👂 heard
   - refactoring: 🖐️ used
   - code review: 👂 heard
   - antipatterns: 👂 heard
-  - paradigm: 
+  - paradigm: 🎓 known
   - algorithm: 🎓 known
   - magic numbers: 👂 heard
-  - hardcode: 
+  - hardcode: 🎓 known
   - complexity: 🖐️ used
   - decomposition: 
-  - spaghetti: 
-  - silver bullet: 
-  - not invented here: 
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
   - dead code: 👂 heard
-  - unreachable code: 
+  - unreachable code: 🎓 known
   - duplicate code: 👂 heard
   - exception: 🎓 known
   - return early: 🎓 known
-  - unittest: 
+  - unittest: 🎓 known
   - git: 👂 heard
   - github: 👂 heard
