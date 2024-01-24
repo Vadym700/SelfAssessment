@@ -9,52 +9,52 @@
   - SOLID: 👂 heard
   - GoF patterns: 🖐️ used
   - CQS: 👂 heard
-  - Leaking abstractions: 
+  - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
   - Contract programming: 👂 heard
-  - Platform-agnostic: 
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic: 🎓 known
-  - Framework-agnostic: 
-- Application architecture
+  - Framework-agnostic: 🎓 known
+- Application architecture🎓 known
   - Isolation between layers: 👂 heard
   - Domain-specific language (DSL): 🎓 known
   - System vs applied code: 🎓 known
-  - Multilayer approach: 
+  - Multilayer approach: 👂 heard
   - Separation of concerns (SoC): 👂 heard
-  - Metaprogramming:
-  - Inversion of control (IoC):
-  - Dependency injection (DI):
-  - Clean architecture:
+  - Metaprogramming:👂 heard
+  - Inversion of control (IoC):👂 heard
+  - Dependency injection (DI):👂 heard
+  - Clean architecture:🖐️ used
   - Domain-driven design (DDD): 🖐️ used
   - Message Queue (MQ): 👂 heard
-  - CQRS: 
+  - CQRS: 🖐️ used
   - Event sourcing: 👂 heard
-  - Work breakdown structure: 
+  - Work breakdown structure: 🎓 known
   - Distributed systems: 👂 heard
-  - High-intensive computing: 
-  - Load balancing: 
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
   - Gateways: 👂 heard
   - On-premises: 👂 heard
-  - IaaS: 
+  - IaaS: 🎓 known
   - PaaS: 👂 heard
   - SaaS: 🎓 known
   - FaaS clouds: 👂 heard
   - Serverless: 🖐️ used
   - Metaprogramming: 🖐️ used
-- Solution architecture
+- Solution architecture:🎓 known
   - A software requirements specification (SRS): 👂 heard
-  - Solution visions: 
+  - Solution visions: 🎓 known
   - Solution capabilities: 🎓 known
   - System design: 👂 heard
   - Process modeling: 🎓 known
-  - Data modeling: 
-  - Solution components: 
+  - Data modeling: 🎓 known
+  - Solution components: 🎓 known
   - Risk assessment: 👂 heard
   - Non-Functional Requirements (NFR): 👂 heard
-  - Clouds:
+  - Clouds:🎓 known
 - Enterprise architecture
   - Understanding business needs: 👂 heard
-  - Enterprise strategy: 
+  - Enterprise strategy: 🎓 known
   - Integration with subsystems: 🎓 known
   - Enterprise vision: 🖐️ used
   - Enterprise capabilities: 👂 heard
